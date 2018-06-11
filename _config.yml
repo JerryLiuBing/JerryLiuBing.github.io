@@ -3,7 +3,7 @@ title: 六饼儿's Blog
 SEOTitle: 六饼儿的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: jerryliubing@gmail.com
-description: "123456."
+description: "半路出家学代码."
 keyword: "六饼儿's Blog, 六饼儿的博客, jerryliubing, 刘冰, Python, 踩坑日常, 学习笔记"
 url: "http://jerryliubing.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -31,7 +31,7 @@ jianshu_username:   e71990ada2fd
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
